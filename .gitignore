@@ -1,0 +1,25 @@
+# Python
+Inventario/venv/
+Inventario/__pycache__/
+Inventario/**/*.pyc
+*.pyc
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
